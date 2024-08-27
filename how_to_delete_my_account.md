@@ -1,6 +1,9 @@
 **Delete Account Description**
 
-You can delete your account the following next steps on mobile applicaiton.
+You can delete your account the following next steps on mobile applicaiton. If you delete your account, 
+* your email, password, etc.
+* your all datas used in app (ex: your wifi devices, your quick modes, your weekly programs, etc.)
+will be deleted.
 
 **Delete Account Steps**
 
